@@ -12,7 +12,7 @@
 *  Server: Xampp
 
  ### Screenshots
- ![](1.png)
- ![](2.png)
- ![](3.png)
+ ![Home page](1.PNG)
+ ![Home page](2.PNG)
+ ![Home page](3.PNG)
 
